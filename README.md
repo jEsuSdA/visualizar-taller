@@ -1,16 +1,18 @@
 # Talleres Visualizar'17 jEsuSdA 8)
----
+
+
 Aquí estará disponible el material y presentaciones de los talleres impartidos por mí en Visualizar'17 sobre aplicaciones de diseño gráfico de software libre y algún que otro material de interés.
 
----
+
 
 # + Info
 
 * [www.jesusda.com](http://www.jesusda.com)
 
----
 
 
+RRSS:
+* [Telegram](https://t.me/pixelpenguins)
 * [Twitter](https://twitter.com/jesusda)
 * [Facebook](https://www.facebook.com/pages/jesusdacom/199017243442298)
 * [Google+](https://plus.google.com/106354835247710036983/posts)
