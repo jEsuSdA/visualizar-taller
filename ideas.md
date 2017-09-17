@@ -5,9 +5,9 @@ Pequeño documento de apoyo para gestionar la creación del material para los ta
 
 ## Tareas
 
-- [ ] Crear repo en git-hub
-- [ ] Crear proyecto en geany
-- [ ] Documentos iniciales
+- [x] Crear repo en git-hub
+- [x] Crear proyecto en geany
+- [x] Documentos iniciales
 - [ ] Volcar esqueleto de S5 para presentaciones
 - [ ] Crear ficha inicial para aplicaciones
 - [ ] Definir Listado de aplicaciones
