@@ -19,3 +19,12 @@ Pequeño documento de apoyo para gestionar la creación del material para los ta
 ## LISTADO APPS
 * Visualización -> <https://processing.org/>
 * Editor Markdown -> <http://pad.haroopress.com/user.html>
+* Herramientas para descarga de archivos multimedia y conversión (youtube-dl, handbrake, etc.)
+* DIA y PENCIL para diagramas
+* freemind para mapas mentales
+* 
+
+
+## Recomendación de lectura
+* **Pensar con imágenes** de Enric Jardí
+* 

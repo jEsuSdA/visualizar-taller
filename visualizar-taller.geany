@@ -20,16 +20,21 @@ indent_mode=2
 [project]
 name=visualizar-taller
 base_path=/home/jesusda/Escritorio/medialab/visualizar/visualizar-taller/
+description=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
+current_page=3
+FILE_NAME_0=193;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fjesusda%2FEscritorio%2Fmedialab%2Fvisualizar%2Fvisualizar-taller%2Fideas.md;0;3
+FILE_NAME_1=760;HTML;0;EUTF-8;1;1;1;%2Fhome%2Fjesusda%2FEscritorio%2Fmedialab%2Fvisualizar%2Fvisualizar-taller%2Fpresentacion%2Findex.html;0;3
+FILE_NAME_2=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fjesusda%2FEscritorio%2Fmedialab%2Fnotas%2Fnotas-taller-github.md;0;3
+FILE_NAME_3=0;None;0;EUTF-8;1;1;1;%2Fhome%2Fjesusda%2FEscritorio%2Fmedialab%2Fnotas%2Fcontactos.txt;0;3
 
 [VTE]
-last_dir=/home/jesusda
+last_dir=/home/jesusda/Escritorio/medialab/notas
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
