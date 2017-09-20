@@ -22,7 +22,7 @@ Pequeño documento de apoyo para gestionar la creación del material para los ta
 * Herramientas para descarga de archivos multimedia y conversión (youtube-dl, handbrake, etc.)
 * DIA y PENCIL para diagramas
 * freemind para mapas mentales
-* 
+* inkscape jessyink http://vamox.blogspot.com/2016/04/tutorial-inkscape-jessyink.html
 
 
 ## Recomendación de lectura
