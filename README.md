@@ -3,6 +3,9 @@
 
 Aquí estará disponible el material y presentaciones de los talleres impartidos por mí en Visualizar'17 sobre aplicaciones de diseño gráfico de software libre y algún que otro material de interés.
 
+# Taller "LibreGraphics: Herramientas libres para el diseño gráfico"
+
+- [Material y presentacion de la charla](http://jesusda.com/docs/libregraphics-medialab/)
 
 
 # + Info
